@@ -125,6 +125,5 @@ LISS3-LULC-Classification/
 │
 ├── Code/
 │   ├── liss3_pipeline.py
-│   └── get_bounds.py
 │
 └── README.md
